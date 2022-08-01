@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <h3>Conect With Me</h3>
 
 </a>
-<a href="https://www.linkedin.com/in/hanieh-ghassemi/">
+<a href="https://www.linkedin.com/in/sajjadghorbani/" target="_blank">
   <img align="left" alt="Hanieh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
