@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3>Personal Projects</h3>
 
-[![Huffman Algorithm](https://img.shields.io/badge/-🕸&nbsp;&nbsp;Huffman&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/Huffman-Algorithm)   [![N-Queens Algorithm](https://img.shields.io/badge/-🧮&nbsp;&nbsp;N&nbsp;Queens&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/N-Queens-Algorithm)
+[![Huffman Algorithm](https://img.shields.io/badge/-%F0%9F%94%90&nbsp;&nbsp;Huffman&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/Huffman-Algorithm)   [![N-Queens Algorithm](https://img.shields.io/badge/-%F0%9F%91%91&nbsp;&nbsp;N&nbsp;Queens&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/N-Queens-Algorithm)
 
 <h3>Conect With Me</h3>
 
