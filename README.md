@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <h3>Technologies</h3>
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=falat&color=black&logo=dotnet&logoColor=684098)    ![Node.Js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&color=black&logo=express&logoColor=90c53f)     ![Microsoft Sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&&color=black&logo=microsoft-sql-server&logoColor=red)    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&color=black&logo=Swagger&logoColor=green) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=falat&color=black&logo=dotnet&logoColor=684098)    ![Microsoft Sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&&color=black&logo=microsoft-sql-server&logoColor=red)    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&color=black&logo=Swagger&logoColor=green) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 
 <h3>Personal Projects</h3>
 
-<!--[![Prim Algorithm](https://img.shields.io/badge/-🕸&nbsp;&nbsp;Prim&nbsp;Algorithm-000000?style=flat)](https://github.com/HaniehGhassemi/Prim-Algorithm)   [![Multiplication-of-large-integers-Algorithm](https://img.shields.io/badge/-🧮&nbsp;&nbsp;Multiplication&nbsp;of&nbsp;large&nbsp;integers&nbsp;Algorithm-000000?style=flat)](https://github.com/HaniehGhassemi/Multiplication-of-large-integers-Algorithm)--!>
+[![Huffman Algorithm](https://img.shields.io/badge/-🕸&nbsp;&nbsp;Huffman&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/Huffman-Algorithm)   [![N-Queens Algorithm](https://img.shields.io/badge/-🧮&nbsp;&nbsp;N&nbsp;Queens&nbsp;Algorithm-000000?style=flat)](https://github.com/sajjadghorbani80/N-Queens-Algorithm)
 
 <h3>Conect With Me</h3>
 
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <a href="mailto:sajjadr2001@gmail.com" target="blank">
   <img align="left" alt="Send Mail to me" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-<a href="#" target="blank">
+<a href="https://stackoverflow.com/users/16672601/sajjad-ghorbani" target="blank">
   <img align="left" alt="My StackOwerFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
