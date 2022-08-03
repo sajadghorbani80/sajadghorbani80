@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Sajad 👋
+### Hi, I'm Sajjad 👋
 <br/>
 <br/>
 
