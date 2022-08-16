@@ -25,7 +25,6 @@ I have worked with the following technologies:<br/>
 -HTML5 , CSS3<br/>
 -Git/GitHub<br/>
 <br/><br/>
-<br/><br/>
 
 <h3>Languages</h3>
 
