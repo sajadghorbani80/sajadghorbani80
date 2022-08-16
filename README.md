@@ -13,8 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm Sajjad 👋
-<br/>
-<br/>
+Hello, I am a backend developer with 1.5 years of experience working with C# and six months with ASP.NET Core.<br/>
+Now I am learning JavaScript and in the future, I want to learn NodeJS and ExpressJS and develop programs with these technologies.<br/>
+I also like to experience front-end development by learning React.<br/>
+I have worked with the following technologies:<br/>
+-C#<br/>
+-Asp.net Core/Web API<br/>
+-Entity Framework Core<br/>
+-SQL<br/>
+-MVC Architecture<br/>
+-HTML5 , CSS3<br/>
+-Git/GitHub<br/>
+<br/><br/>
+<br/><br/>
 
 <h3>Languages</h3>
 
