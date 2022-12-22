@@ -52,6 +52,6 @@ I have worked with the following technologies:<br/>
 <a href="https://stackoverflow.com/users/16672601/sajjad-ghorbani" target="_blank">
   <img align="left" alt="My StackOwerFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
-<a href="https://leetcode.com/sajjadghorbani/" target="_blank">
+<a href="https://leetcode.com/sajjadghorbani80/" target="_blank">
   <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
