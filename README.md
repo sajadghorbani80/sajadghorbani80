@@ -53,5 +53,5 @@ I have worked with the following technologies:<br/>
   <img align="left" alt="My StackOwerFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
 <a href="https://leetcode.com/sajjadghorbani/" target="blank">
-  <img align="left" alt="My LeetCode" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835](https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png)" />
+  <img align="left" alt="My LeetCode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
