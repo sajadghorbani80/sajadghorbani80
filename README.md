@@ -25,7 +25,6 @@ I have worked with the following technologies:<br/>
 -HTML5 , CSS3<br/>
 -Git/GitHub<br/>
 <br/><br/>
-[link](www.google.com){:target="_blank"}
 <h3>Languages</h3>
 
 ![c#](https://img.shields.io/badge/C%23-239120?style=flat&color=black&logo=c-sharp&logoColor=a076da)    ![JS](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&&color=black&logo=html5&logoColor=orange)    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&color=black&logo=css3&logoColor=2862e8)
